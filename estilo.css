@@ -71,3 +71,23 @@ li a:hover {
   justify-content: center;
 
 }
+.rodape {
+position: absolute;
+bottom: 0;
+width: 100%;
+left: 0;
+height: 30px;
+background: green;
+color: black;
+display: flex;
+justify-content: center;
+font-size: 19px;
+}
+.conteudo {
+  position: absolute;
+  top:45px;
+}
+  
+
+
+
