@@ -37,10 +37,10 @@ li a:hover {
   background: green;
   color: rgb(0, 0, 0);
 }
-#palmeiras {
+#brasil {
   width: 15%;
 }
-.caixapalmeiras {
+.caixabrasil {
   position: absolute;
   top: 45px;
   left: 0;
@@ -48,7 +48,7 @@ li a:hover {
   height: 140px;
   background: black;
   margin: 20px;
-  border-color: green;
+  border-color: yellow;
   border-width: 20px;
   border-style: double;
   padding: 20px;
@@ -62,12 +62,22 @@ li a:hover {
   left: 0;
   height: 40px;
   background: rgb(0, 0, 0);
-  color: green;
+  color: yellowgreen;
   display: flex;
   justify-content: center;
   font-size: 19px;
 }
 .conteudo {
   position: absolute;
-  top: 45px;
+  top: 40px;
+  width: 100%;
 }
+
+.titulo {
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  width: 100%;
+}
+
+
