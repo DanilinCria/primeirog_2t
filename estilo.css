@@ -71,13 +71,25 @@ li a:hover {
   position: absolute;
   top: 40px;
   width: 100%;
+  color: antiquewhite;
 }
 
-.titulo {
+.conteudo2 {
   position: absolute;
   text-align: center;
   top: 50px;
   width: 100%;
+  color:yellow;
 }
+
+.conteudo3 {
+  position: fixed;
+  text-align: center;
+  top: 150px;
+  width: 100%;
+  background-color:green;
+
+}
+
 
 
